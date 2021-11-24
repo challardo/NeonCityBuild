@@ -9,6 +9,6 @@ Proyecto hecho en unity
 
 ![area1](https://github.com/challardo/NeonCityBuild/blob/main/screenshots/Screenshot%20(7).png)
 
-![area2](https://github.com/challardo/NeonCityBuild/blob/main/screenshots/Screenshot%20(11.png)
+![area2](https://github.com/challardo/NeonCityBuild/blob/main/screenshots/Screenshot%20(11).png)
 
-![pauseMenu](https://github.com/challardo/NeonCityBuild/blob/main/screenshots/Screenshot%20(12.png)
+![pauseMenu](https://github.com/challardo/NeonCityBuild/blob/main/screenshots/Screenshot%20(12).png)
