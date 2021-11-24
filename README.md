@@ -5,10 +5,10 @@ Proyecto hecho en unity
 El proyecto ya esta pre-compilado por lo que para correrlo solo es necesario ejecutar el archivo "NeonCity.exe"
 
 Controles:
-Flechas del teclado para el movimiento 
-Z attaque basico 
-X dash 
-C interacturar curarse
+- Flechas del teclado para el movimiento 
+- Z attaque basico 
+- X dash 
+- C interacturar curarse
 
 ![titleScreen](https://github.com/challardo/NeonCityBuild/blob/main/screenshots/Screenshot%20(10).png)
 
