@@ -9,6 +9,7 @@ Controles:
 - Z: attaque basico 
 - X: dash 
 - C: interacturar curarse
+- ESC: pausa
 
 ![titleScreen](https://github.com/challardo/NeonCityBuild/blob/main/screenshots/Screenshot%20(10).png)
 
